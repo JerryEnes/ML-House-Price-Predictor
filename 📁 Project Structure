@@ -1,0 +1,10 @@
+house-price-predictor/
+├── app/
+│   ├── app.py              # Flask application
+│   ├── train_model.py      # ML training
+│   ├── requirements.txt    # Dependencies
+│   └── templates/
+│       └── index.html     # Web interface
+├── Dockerfile             # Docker configuration
+├── docker-compose.yml     # Docker Compose
+└── README.md             # Documentation
